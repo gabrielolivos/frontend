@@ -1,0 +1,64 @@
+.foto{
+    border-radius: 118px;
+    
+
+}
+header{background-image: url('https://media-exp1.licdn.com/dms/image/C4D1BAQH4ZmaZrRJPPQ/company-background_10000/0/1627656919314?e=2147483647&v=beta&t=pNtB7GNGmekxvswWbldOhWYlovd5zQgIszGfWAqi1Dc');
+        line-height: 310px;
+
+}
+
+.main_index{    
+    text-align: center;
+
+}
+
+body {background-image: url('https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2019/04/shutterstock_407554567-compressor-1.jpg');
+    font-family: 'Kamot', sans-serif;
+}
+
+h1 {font-size: 150px;
+    color:#ffffff;
+    font-weight: 700;
+    
+}
+
+h2 {font-size: 80px;
+    color:#ffffff;
+    font-weight: 400;
+    
+}
+
+footer {
+    background-color: #ffffff;
+    font-size: 80px;
+    text-align: center;
+    color: #000000;
+    line-height: 200%
+}
+
+.link {
+    color:#ff0000;
+    font-size: 60px;
+}
+
+.h2sobremi {font-size: 120px;
+    color:#da111b;
+    font-weight: 700;
+    
+}
+
+
+
+section {
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: 200;
+
+}
+
+.inicio_de_frase{
+    font-weight: 800;
+
+
+}
